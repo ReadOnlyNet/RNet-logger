@@ -1,0 +1,18 @@
+{
+  "name": "@rnet.cf/logger",
+  "version": "1.0.3",
+  "description": "Logging module for RNet",
+  "main": "src/logger.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.rnet.cf/RNet/RNet-logger.git"
+  },
+  "author": "ROMVoid95 <romvoid95@readonlydev.com>",
+  "dependencies": {
+    "@ayana/logger": "git+https://gitlab.com/germanoeich/logger.git",
+    "chalk": "^2.4.2",
+    "elasticsearch": "^15.3.0",
+    "logform": "^2.1.0",
+    "moment": "^2.23.0"
+  }
+}
